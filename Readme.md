@@ -1,0 +1,1 @@
+Dedicado para ganho de conhecimento e entretenimento! Aqui estarão alguns projetos realizados em Python.
